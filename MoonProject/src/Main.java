@@ -113,8 +113,4 @@ public class Main {
         }
         System.out.println("Zodiac: " + zodiak + "\n");
     }
-    public void metersToKilometers(double num){
-        num = num / 1000;
-        System.out.println("Метры в километры: " + num + "\n");
-    }
 }
